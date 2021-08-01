@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+#clickMe{
+}
+
+.mainDiv{
+    justify-content: center;
+    display: flex;
+}
+
+.rgbDiv{
+    display: flex;
+    justify-content: center;
+}
